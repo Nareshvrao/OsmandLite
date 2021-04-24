@@ -1,0 +1,2 @@
+# OsmandLite
+OpenStreetMap Android Client
